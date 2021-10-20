@@ -1,2 +1,5 @@
 Link para download do Git: https://git-scm.com/downloads
-O Git Bash é um terminal extendido par otimizar o uso do Git.
+Git é um sistema de versionamento de códigos.
+
+GitHub é um sistema de armazenamento de códigos e suas versões/repositório.
+
