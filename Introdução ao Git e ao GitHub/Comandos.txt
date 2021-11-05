@@ -3,7 +3,7 @@ git add (Mover arquivos)
 git commit (Cria o primeiro commit)
 git clone + URL (Clona repositório desejado)
 git remote add origin + URL do repositório
-git push origin master (Exige autenticação/ chave token ou autenticação por dois fatores)
+git push origin master (Empurra arquivos alterados)
 git add <file>...(Salva arquivos alterados) ou
 git add . (Salva todos arquivos alterados)
 git commit -m "Mudança feita"(Mensagem/Boas práticas)
